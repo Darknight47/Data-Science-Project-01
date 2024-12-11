@@ -1,2 +1,2 @@
-# ML-Models
-This repository contains different machine learning models.
+# Data Science Project 01
+This repository contains different DS Projects!
